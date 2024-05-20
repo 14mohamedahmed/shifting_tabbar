@@ -245,7 +245,7 @@ class _ShiftingTabWidget extends AnimatedWidget {
             color,
             dir,
             labelStyle ??
-                Theme.of(context).textTheme.headline5!.copyWith(
+                Theme.of(context).textTheme.headlineSmall!.copyWith(
                     fontSize: 14,
                     color: color,
                     letterSpacing: 2,
